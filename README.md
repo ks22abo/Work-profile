@@ -15,4 +15,4 @@
 <p> volunterring experince 2021-2022
 <p>Team Software Project
 <p>Asessment Centre Experince
-<p>database assignment rootstock
+<p>Database Assignment Rootstock
