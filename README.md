@@ -12,7 +12,6 @@
     
 <h2> my work portfolio Projects work experice</h2>
 <p font size="font-size:6px;":> 
-<p> volunterring experince 2021-2022
 <p>Team Software Project
 <p>Asessment Centre Experince
 <p>Database Assignment Rootstock
