@@ -10,7 +10,7 @@
 
 
     
-<h2> My Work Portfolio Projects Work Experice</h2>
+<h2> My Work Portfolio Projects Work Experience</h2>
 <p font size="font-size:6px;":> 
 <p>Team Software Project
 <p>Asessment Centre Experince
